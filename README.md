@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Html, Css, JavaScript, ReactJS, TypeScript, Styled Components, NodeJs and SQL.
 
 
-https://github.com/ivini95/Projects
+https://ivini95.github.io/portfolio/
